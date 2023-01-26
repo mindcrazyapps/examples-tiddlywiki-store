@@ -1,3 +1,5 @@
+# <img src="./logo.svg"> tiddlywiki-store
+
 ## examples-tiddlywiki-store
 examples api tiddlywiki-store
 
