@@ -1,6 +1,5 @@
-# <img src="https://raw.githubusercontent.com/mindcrazyapps/uiux-tiddlywiki-store/main/logo.svg"> tiddlywiki-store
+# <img src="https://raw.githubusercontent.com/mindcrazyapps/uiux-tiddlywiki-store/main/logo.svg"> examples-tiddlywiki-store
 
-### examples-tiddlywiki-store
 examples api tiddlywiki-store
 
 ## About NextExperience
